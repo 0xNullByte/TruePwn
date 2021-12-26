@@ -10,7 +10,7 @@
 
 ## setup
 ```
-git clone [url]
+git clone https://github.com/0xNullByte/TruePwn.git
 cd TruePwn
 pip3 install -r requirements.txt
 python3 TruePwn.py ./file.out
